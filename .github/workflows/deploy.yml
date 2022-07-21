@@ -26,7 +26,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: VS-tclSK-Group-aca
+  RESOURCE_GROUP_NAME: VS-tclSK-Group-aca1
 
   # specify your preferred region
   REGION: eastus
